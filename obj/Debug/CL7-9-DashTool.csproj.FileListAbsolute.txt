@@ -1,0 +1,9 @@
+C:\Users\bmg\source\repos\CL7-9-DashTool\bin\Debug\CL7-9-DashTool.exe
+C:\Users\bmg\source\repos\CL7-9-DashTool\bin\Debug\CL7-9-DashTool.pdb
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7-9-DashTool.csprojAssemblyReference.cache
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7_9_DashTool.Form1.resources
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7_9_DashTool.Properties.Resources.resources
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7-9-DashTool.csproj.GenerateResource.cache
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7-9-DashTool.csproj.CoreCompileInputs.cache
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7-9-DashTool.exe
+C:\Users\bmg\source\repos\CL7-9-DashTool\obj\Debug\CL7-9-DashTool.pdb
